@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CERNVVLEtmOjHp3jSrKAC4S7hYNkjfYcGnO6oJPxb1vUwwT/MgqVSnh1oiKqNB0J+lOyCjW4KnvvNWjX2eqEiA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\RotationAngleDemo\\Assets\\RotationAngleDemo.Dependencies.msb4u.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joost\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1049\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1049.nupkg.sha512",
+    "C:\\Users\\joost\\.nuget\\packages\\msbuildforunity\\0.9.1-123842\\msbuildforunity.0.9.1-123842.nupkg.sha512",
+    "C:\\Users\\joost\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
